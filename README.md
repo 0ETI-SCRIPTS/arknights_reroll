@@ -22,7 +22,7 @@
 
 
 ## Note:
-<p>I've only tested this for myself. Probably won't work if you run it.</p>
+<p>I've only tested this for myself. Probably won't work if you run it since images are not the same.</p>
 <p>With some slight coding knowledge I'm sure you can figure out how to make it work on your device.</p>
 
 ## FAQ:
