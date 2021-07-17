@@ -29,5 +29,3 @@
 
 <p>Q: Is this in Yostar Tos?</p>
 <p>A: ¯\_(ツ)_/¯</p>
-
-<p>I have no responsibility for whatever you do with this. Feel free to copy it, print it out, and rub it all over your face. </p>
